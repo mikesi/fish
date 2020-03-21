@@ -1,0 +1,17 @@
+set autoindent
+set constantshow
+set positionlog
+set tabsize 2
+set tabstospaces
+set nowrap
+set suspend
+set titlecolor brightyellow,blue
+set statuscolor brightyellow,blue
+bind ^S savefile main
+# bind ^G findnext main
+bind M-G findprevious main
+# set backupdir $HOME/nano-backups
+set numbercolor cyan,black
+set linenumbers
+set keycolor cyan,black
+set functioncolor brightblue,black
